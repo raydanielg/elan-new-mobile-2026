@@ -45,6 +45,9 @@ dependencies:
   mobile_scanner: ^6.0.4
   image_picker: ^1.1.2
   url_launcher: ^6.3.0
+  google_fonts: ^6.2.0
+  lucide_icons: ^0.257.0
+  fl_chart: ^0.68.0
 
 dev_dependencies:
   flutter_test:
@@ -72,6 +75,8 @@ flutter:
 
   assets:
     - assets/onboarding/
+    - assets/onboarding/blue-lines-maze-white-background_1409-9685.jpg
+    - assets/onboarding/blue-colorful-curvy-geometric-lines-wave-pattern-texture-colorful-background_571748-525.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
